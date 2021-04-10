@@ -1,0 +1,39 @@
+
+.heading{
+	height :420px; 
+	top :50%;
+	left:50%;
+	 position: absolute; 
+	transform: translate(-50%,-50%); 
+	padding:200px;
+}
+h1{
+	color: blue;
+}
+.prop
+{
+	background : #dce3e2;
+}
+.same img{
+	
+	width: 350px;
+	height: 260px;
+	
+}
+.feature h2{
+	text-align: center;
+	padding-top: 30px;
+}
+h4{
+	text-align: center;
+}
+footer{
+    background-color:whitesmoke ;
+    color:black;
+    height: 2.5em;
+    text-align: center;
+
+}
+button{
+	margin-left: 40%;
+}
